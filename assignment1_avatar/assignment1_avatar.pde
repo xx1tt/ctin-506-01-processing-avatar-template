@@ -12,8 +12,8 @@ void draw ()
   
   // vv your 2d primitives go here vv
   
-  
-  
+  // example 2d primitive: circle
+  circle (256,256,200);
   
   
   // vv save your file here vv
